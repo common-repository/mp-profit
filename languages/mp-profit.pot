@@ -1,0 +1,1118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-11-27 16:03+0200\n"
+"PO-Revision-Date: 2016-08-16 11:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/customiser/customiser.php:45
+msgid "Slider Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:48
+msgid ""
+"<i>Go to \"Dashboard > Slider\" and add posts to fill this section</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:64 classes/customiser/customiser.php:190
+#: classes/customiser/customiser.php:258 classes/customiser/customiser.php:399
+#: classes/customiser/customiser.php:504 classes/customiser/customiser.php:590
+#: classes/customiser/customiser.php:639 classes/customiser/customiser.php:761
+#: classes/customiser/customiser.php:847 classes/customiser/customiser.php:933
+#: classes/customiser/customiser.php:1014
+#: classes/customiser/customiser.php:1177
+msgid "Hide this section"
+msgstr ""
+
+#: classes/customiser/customiser.php:84
+msgid "Hide this section on mobile"
+msgstr ""
+
+#: classes/customiser/customiser.php:102
+msgid "Select slider animation type"
+msgstr ""
+
+#: classes/customiser/customiser.php:125
+msgid "Animate slider automatically"
+msgstr ""
+
+#: classes/customiser/customiser.php:143
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: classes/customiser/customiser.php:160 classes/customiser/customiser.php:229
+#: classes/customiser/customiser.php:370 classes/customiser/customiser.php:475
+#: classes/customiser/customiser.php:560 classes/customiser/customiser.php:609
+#: classes/customiser/customiser.php:731 classes/customiser/customiser.php:817
+#: classes/customiser/customiser.php:903 classes/customiser/customiser.php:989
+#: classes/customiser/customiser.php:1148
+#: classes/customiser/customiser.php:1196
+msgid "Section position"
+msgstr ""
+
+#: classes/customiser/customiser.php:170
+msgid "First Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:173
+msgid ""
+"<i>Fill in this section by adding widgets to \"Customize > Widgets > First "
+"Section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:210 classes/customiser/customiser.php:351
+#: classes/customiser/customiser.php:456
+msgid "Background"
+msgstr ""
+
+#: classes/customiser/customiser.php:239
+msgid "First Call to Action Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:269
+#: classes/sections/first-call-to-action.php:1
+msgid "We can manage your finance"
+msgstr ""
+
+#: classes/customiser/customiser.php:278 classes/customiser/customiser.php:419
+#: classes/customiser/customiser.php:524 classes/customiser/customiser.php:659
+#: classes/customiser/customiser.php:781 classes/customiser/customiser.php:867
+#: classes/customiser/customiser.php:953 classes/customiser/customiser.php:1031
+#: classes/widget/Items/Features.php:134 classes/widget/Items/Plan.php:149
+msgid "Title"
+msgstr ""
+
+#: classes/customiser/customiser.php:289
+#: classes/sections/first-call-to-action.php:1
+msgid ""
+"Our team consists of professionals who provide clients and partners with "
+"confidence and only best consulting and financial services. Join our company "
+"and use a great chance to conquer the trading market and be the one of those "
+"who are eager to lead and innovate in the financial industry"
+msgstr ""
+
+#: classes/customiser/customiser.php:297 classes/customiser/customiser.php:1048
+msgid "Description"
+msgstr ""
+
+#: classes/customiser/customiser.php:306
+#: classes/sections/first-call-to-action.php:1
+msgid "Join us"
+msgstr ""
+
+#: classes/customiser/customiser.php:315 classes/customiser/customiser.php:696
+#: classes/customiser/customiser.php:1083
+msgid "Button label"
+msgstr ""
+
+#: classes/customiser/customiser.php:333 classes/customiser/customiser.php:714
+msgid "Button url"
+msgstr ""
+
+#: classes/customiser/customiser.php:380
+msgid "Calculator Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:410 classes/sections/calculator.php:1
+msgid "Lease calculator"
+msgstr ""
+
+#: classes/customiser/customiser.php:429 classes/sections/calculator.php:1
+msgid ""
+"Use this calculator to estimate the lease payments for particular periods by "
+"submitting real prices."
+msgstr ""
+
+#: classes/customiser/customiser.php:438 classes/customiser/customiser.php:543
+#: classes/customiser/customiser.php:678 classes/customiser/customiser.php:800
+#: classes/customiser/customiser.php:886 classes/customiser/customiser.php:972
+msgid "Sub Title"
+msgstr ""
+
+#: classes/customiser/customiser.php:485
+msgid "Features Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:488
+msgid ""
+"<i>Fill in this section by adding \"Theme - Feature\" widgets to \"Customize "
+"> Widgets > Features section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:515 classes/sections/features.php:1
+msgid "Reasons to choose us"
+msgstr ""
+
+#: classes/customiser/customiser.php:534 classes/sections/features.php:1
+msgid "The best services for your business needs"
+msgstr ""
+
+#: classes/customiser/customiser.php:570
+msgid "Records Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:573
+msgid ""
+"<i>Fill in this section by adding \"Theme - Record\" widgets to \"Customize "
+"> Widgets > Records section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:619
+msgid "Services Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:622
+msgid ""
+"<i>Go to \"Dashboard > Services\" and add posts to fill this section</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:650 classes/sections/services.php:159
+msgid "Smart financial solutions"
+msgstr ""
+
+#: classes/customiser/customiser.php:669 classes/sections/services.php:179
+msgid "Financial strength and security are our number one priority"
+msgstr ""
+
+#: classes/customiser/customiser.php:687
+msgid "Read More"
+msgstr ""
+
+#: classes/customiser/customiser.php:741
+msgid "Team Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:744
+msgid ""
+"<i>Fill in this section by adding \"Theme - Team\" widgets to \"Customize > "
+"Widgets > Team section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:773 classes/sections/team.php:1
+msgid "Executive team"
+msgstr ""
+
+#: classes/customiser/customiser.php:792 classes/sections/team.php:1
+msgid "We can achieve your goals together"
+msgstr ""
+
+#: classes/customiser/customiser.php:827
+msgid "Pricing Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:830
+msgid ""
+"<i>Fill in this section by adding \"Theme - Pricing\" widgets to \"Customize "
+"> Widgets > Pricing section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:859 classes/widget/Items/Plan.php:14
+#: classes/widget/Items/Plan.php:15 classes/widget/Items/Plan.php:171
+msgid "Pricing"
+msgstr ""
+
+#: classes/customiser/customiser.php:878
+msgid "pricing section for your services"
+msgstr ""
+
+#: classes/customiser/customiser.php:913
+msgid "Testimonials Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:916
+msgid ""
+"<i>Fill in this section by adding \"Theme - Testimonial\" widgets to "
+"\"Customize > Widgets > Testimonials section\"</i><hr/>"
+msgstr ""
+
+#: classes/customiser/customiser.php:945 classes/sections/testimonials.php:1
+msgid "Testimonials"
+msgstr ""
+
+#: classes/customiser/customiser.php:964 classes/sections/testimonials.php:1
+msgid "What our happy customers say"
+msgstr ""
+
+#: classes/customiser/customiser.php:998
+msgid "Contacts Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:1024 classes/sections/contact.php:120
+msgid "Message form"
+msgstr ""
+
+#: classes/customiser/customiser.php:1041 classes/sections/contact.php:131
+msgid "Get in touch"
+msgstr ""
+
+#: classes/customiser/customiser.php:1065
+msgid "Email address"
+msgstr ""
+
+#: classes/customiser/customiser.php:1076 classes/sections/contact.php:197
+msgid "Send Message"
+msgstr ""
+
+#: classes/customiser/customiser.php:1100
+msgid "Hide reCaptcha?"
+msgstr ""
+
+#: classes/customiser/customiser.php:1115
+msgid "Site key"
+msgstr ""
+
+#: classes/customiser/customiser.php:1116
+msgid "Create an account here"
+msgstr ""
+
+#: classes/customiser/customiser.php:1131
+msgid "Secret key"
+msgstr ""
+
+#: classes/customiser/customiser.php:1158
+msgid "Location Section"
+msgstr ""
+
+#: classes/customiser/customiser.php:1161
+msgid ""
+"<i>Fill in this section by adding \"Theme - GoogleMap\" widget to "
+"\"Customize > Widgets > Location section\"</i><hr/>"
+msgstr ""
+
+#: classes/footer/footer.php:33 classes/widget/Items/About.php:13
+msgid "About us"
+msgstr ""
+
+#: classes/footer/footer.php:34
+msgid ""
+"<p>This WordPress Theme is your easy solution for building strong "
+"competitive financial website for your business. Don&rsquo;t waste your "
+"priceless time, install the theme and go ahead.</p>"
+msgstr ""
+
+#: classes/footer/footer.php:46
+msgid "Contact info"
+msgstr ""
+
+#: classes/footer/footer.php:47 classes/widget/Items/Contact.php:73
+msgid "1254/21 West-Holland Street <br/> Manchester <br/> United Kingdom"
+msgstr ""
+
+#: classes/footer/footer.php:48 classes/widget/Items/Contact.php:74
+msgid "345-677-554"
+msgstr ""
+
+#: classes/footer/footer.php:49 classes/widget/Items/Contact.php:75
+msgid "info@yoursite.com"
+msgstr ""
+
+#: classes/footer/footer.php:50 classes/widget/Items/Contact.php:76
+msgid "profitconnection"
+msgstr ""
+
+#: classes/metabox/slider.php:17
+msgid "Slide text"
+msgstr ""
+
+#: classes/metabox/slider.php:25
+msgid "Slide buttons"
+msgstr ""
+
+#: classes/metabox/slider.php:33
+msgid "Slide options"
+msgstr ""
+
+#: classes/metabox/slider.php:153
+msgid "First button title"
+msgstr ""
+
+#: classes/metabox/slider.php:160
+msgid "First button url"
+msgstr ""
+
+#: classes/metabox/slider.php:171
+msgid "Second button title"
+msgstr ""
+
+#: classes/metabox/slider.php:178
+msgid "Second button url"
+msgstr ""
+
+#: classes/metabox/slider.php:204
+msgid "Slider content position"
+msgstr ""
+
+#: classes/metabox/slider.php:210 classes/metabox/slider.php:257
+msgid "Left"
+msgstr ""
+
+#: classes/metabox/slider.php:213 classes/metabox/slider.php:260
+msgid "Center"
+msgstr ""
+
+#: classes/metabox/slider.php:216 classes/metabox/slider.php:263
+msgid "Right"
+msgstr ""
+
+#: classes/metabox/slider.php:222
+msgid "Slider overlay"
+msgstr ""
+
+#: classes/metabox/slider.php:226
+msgid "Use white overlay"
+msgstr ""
+
+#: classes/metabox/slider.php:232
+msgid "Background repeat"
+msgstr ""
+
+#: classes/metabox/slider.php:237
+msgid "No repeat"
+msgstr ""
+
+#: classes/metabox/slider.php:240
+msgid "Tile"
+msgstr ""
+
+#: classes/metabox/slider.php:243
+msgid "Tile Horizontally"
+msgstr ""
+
+#: classes/metabox/slider.php:246
+msgid "Tile Vertically"
+msgstr ""
+
+#: classes/metabox/slider.php:252
+msgid "Background Position"
+msgstr ""
+
+#: classes/metabox/slider.php:269
+msgid "Bacground Size"
+msgstr ""
+
+#: classes/metabox/slider.php:274
+msgid "Auto"
+msgstr ""
+
+#: classes/metabox/slider.php:277
+msgid "Contain"
+msgstr ""
+
+#: classes/metabox/slider.php:280
+msgid "Cover"
+msgstr ""
+
+#: classes/posttype/services.php:6 classes/posttype/services.php:7
+msgid "Services"
+msgstr ""
+
+#: classes/posttype/slider.php:6 classes/posttype/slider.php:7
+msgid "Slider"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Starting Amount"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Only numbers (0-9) are allowed"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Years to Invest"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Hypothetical Annual Rate of Return"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Only numbers (0-9) and decimal (.) are allowed"
+msgstr ""
+
+#: classes/sections/calculator.php:1
+msgid "Submit"
+msgstr ""
+
+#: classes/sections/contact.php:47
+msgid "* Please enter your name."
+msgstr ""
+
+#: classes/sections/contact.php:56
+msgid "* Please enter your email address."
+msgstr ""
+
+#: classes/sections/contact.php:59
+msgid "* You entered an invalid email address."
+msgstr ""
+
+#: classes/sections/contact.php:68
+msgid "* Please enter a subject."
+msgstr ""
+
+#: classes/sections/contact.php:77
+msgid "* Please enter a message."
+msgstr ""
+
+#: classes/sections/contact.php:95
+msgid "From "
+msgstr ""
+
+#: classes/sections/contact.php:97
+msgid "Name: "
+msgstr ""
+
+#: classes/sections/contact.php:97
+msgid "Email: "
+msgstr ""
+
+#: classes/sections/contact.php:97
+msgid "Subject: "
+msgstr ""
+
+#: classes/sections/contact.php:97
+msgid "Message: "
+msgstr ""
+
+#: classes/sections/contact.php:98
+msgid "From: "
+msgstr ""
+
+#: classes/sections/contact.php:98
+msgid "Reply-To: "
+msgstr ""
+
+#: classes/sections/contact.php:144
+msgid "Thanks, your email was sent successfully!"
+msgstr ""
+
+#: classes/sections/contact.php:146
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: classes/sections/contact.php:168
+msgid "Your Name"
+msgstr ""
+
+#: classes/sections/contact.php:171
+msgid "Your Email"
+msgstr ""
+
+#: classes/sections/contact.php:174
+msgid "Subject"
+msgstr ""
+
+#: classes/sections/contact.php:188
+msgid "Your Message"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"Clients&rsquo; strength and security are our main goals. Trade confidently "
+"with the provider you can fully rely on."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "personal finance"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Financial Security"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"We offer individual well-thought and tested strategies so you can easy "
+"succeed in a fierce business world."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "market data"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Successful Market Strategies"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"Stay on the top of the financial market with our free video tutorials, "
+"detailed guides and daily updated blog."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "24 / 7 support"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Custom Financial Training"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"Join webinars to improve your knowledge and get trade ideas to be the step "
+"ahead of your competitors."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "advisory agent"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Live Trading Sessions"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"Pay only when you get result. Our pricing are fully transparent and "
+"competitive. You&rsquo;ll like them by far."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "unique approach"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Reliable Pricing"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid ""
+"Our professional support team is always next to you to answer all questions "
+"via chat, email or phone."
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "creative solutions"
+msgstr ""
+
+#: classes/sections/features.php:1
+msgid "Customer Support"
+msgstr ""
+
+#: classes/sections/pricing.php:25 classes/sections/pricing.php:37
+#: classes/sections/pricing.php:62
+msgid ""
+"15 Live trading sessions</p> <p>15 Webinars</p> <p>15 Videos and Tutorials</"
+"p> <p>Access to Market Analysis</p> <p>Market Strategist</p> <p>24/7 "
+"Technical Support"
+msgstr ""
+
+#: classes/sections/pricing.php:26
+msgid "basic"
+msgstr ""
+
+#: classes/sections/pricing.php:38
+msgid "standard"
+msgstr ""
+
+#: classes/sections/pricing.php:49
+msgid ""
+"15 Live trading sessions</p> <p>15 Webinars</p> <p>15 Videos and Tutorials</"
+"p> <p>Access to Market Analysis</p> <p>Market Strategist</p> <p>24/7 "
+"Technical Support</p> <p>Unlimited Access"
+msgstr ""
+
+#: classes/sections/pricing.php:50 classes/widget/Items/Plan.php:51
+#: classes/widget/Items/Plan.php:154
+msgid "Premium"
+msgstr ""
+
+#: classes/sections/pricing.php:51 classes/widget/Items/Plan.php:52
+msgid "best value"
+msgstr ""
+
+#: classes/sections/pricing.php:63
+msgid "ultimate"
+msgstr ""
+
+#: classes/sections/pricing.php:111
+msgid "Choose your plan"
+msgstr ""
+
+#: classes/sections/pricing.php:131
+msgid "Pricing section for your product or service"
+msgstr ""
+
+#: classes/sections/records.php:27
+msgid "Trading Tools"
+msgstr ""
+
+#: classes/sections/records.php:33
+msgid "Current Spreads"
+msgstr ""
+
+#: classes/sections/records.php:41
+msgid "Safe Customer Deposits"
+msgstr ""
+
+#: classes/sections/records.php:47
+msgid "happy customers"
+msgstr ""
+
+#: classes/sections/services.php:16
+msgid "Business Market Leader"
+msgstr ""
+
+#: classes/sections/services.php:17
+msgid ""
+"We provide maximum quality tools and human resources to take your brand, "
+"product, or entire business to the next level."
+msgstr ""
+
+#: classes/sections/services.php:21
+msgid "Safety of Clients Deposits"
+msgstr ""
+
+#: classes/sections/services.php:22
+msgid "The years of stability is our best evidence of clients deposits safety."
+msgstr ""
+
+#: classes/sections/services.php:26
+msgid "Transparent Financial Data"
+msgstr ""
+
+#: classes/sections/services.php:27
+msgid ""
+"Clear and honest financial statements are presented through hundreds of "
+"detailed reports each month."
+msgstr ""
+
+#: classes/sections/services.php:31
+msgid "Retail and Institutional Trading"
+msgstr ""
+
+#: classes/sections/services.php:32
+msgid ""
+"We successfully serve both individual and traders groups of institutions "
+"with equal concern."
+msgstr ""
+
+#: classes/sections/services.php:36
+msgid "Access Multi-Asset Liquidity"
+msgstr ""
+
+#: classes/sections/services.php:37
+msgid ""
+"Optimize your trading to your trading requirements and business needs within "
+"our multi-asset portfolio."
+msgstr ""
+
+#: classes/sections/services.php:41
+msgid "Strong Regulatory Protection"
+msgstr ""
+
+#: classes/sections/services.php:42
+msgid ""
+"Feel the benefits of a strong and well-resourced consumer protection "
+"regulatory system."
+msgstr ""
+
+#: classes/sections/services.php:61
+msgid "finance project name"
+msgstr ""
+
+#: classes/sections/services.php:195
+msgid "All Solutions"
+msgstr ""
+
+#: classes/sections/slider.php:26
+msgid "Professional Guidance & Support"
+msgstr ""
+
+#: classes/sections/slider.php:28
+msgid ""
+"You will be always aware of all business and financial news and stay "
+"informed with investment tips, market predictions, business advice and "
+"guides."
+msgstr ""
+
+#: classes/sections/slider.php:31 classes/sections/slider.php:52
+msgid "Learn More"
+msgstr ""
+
+#: classes/sections/slider.php:47
+msgid "We Provide Best Services"
+msgstr ""
+
+#: classes/sections/slider.php:49
+msgid ""
+"We provide you with a professional financial services with all necessary "
+"tools to bring new clients and make the existing ones back."
+msgstr ""
+
+#: classes/sections/stock-ticker.php:23 classes/sections/stock-ticker.php:24
+msgid "Facebook Inc"
+msgstr ""
+
+#: classes/sections/stock-ticker.php:30 classes/sections/stock-ticker.php:31
+msgid "Apple Inc"
+msgstr ""
+
+#: classes/sections/stock-ticker.php:37 classes/sections/stock-ticker.php:38
+msgid "Microsoft Corporation"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "Jimmie Chen"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "finances"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid ""
+"Jimmie joined Profit Consulting in 2016 as the Grants and Finance Officer to "
+"take on financial coordination and financial management of the organization."
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "#"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "Dave Brown"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "Risks"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid ""
+"Dave leads the team on legal strategy and risks. He is a US-qualified lawyer "
+"who previously specialized in privacy and intellectual property legislation."
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "Bryan Adams"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "investments"
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid ""
+"Bryan is an Investments Technologist with a specific focus on the area of "
+"surveillance technologies and the transparent investment strategies."
+msgstr ""
+
+#: classes/sections/team.php:1
+msgid "view all team"
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "Financial adviser"
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "Abraham Smith"
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid ""
+"I was able to increase the awareness about the services I provide after "
+"partnershipping with Profit Consulting. These guys know their business "
+"better than anyone else."
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "Designer, Magazine."
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "Betty Page"
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid ""
+"Summing up my own experience of working with this company I'd say just two "
+"words - double pleasure! The consultation price is affordable for the "
+"designer on budget and the communication with the stuff is a real delight."
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "Manager, NY Times."
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid "James Dean"
+msgstr ""
+
+#: classes/sections/testimonials.php:1
+msgid ""
+"You guys always rock! I continue using the services of Profit Consulting for "
+"a couple of years already and never had a chance to be frustrated."
+msgstr ""
+
+#: classes/widget/Items/About.php:12
+msgid "About Us"
+msgstr ""
+
+#: classes/widget/Items/About.php:69 classes/widget/Items/Contact.php:78
+msgid "Title:"
+msgstr ""
+
+#: classes/widget/Items/About.php:80
+msgid "Show logo"
+msgstr ""
+
+#: classes/widget/Items/Break.php:12
+msgid "Break"
+msgstr ""
+
+#: classes/widget/Items/Break.php:13 classes/widget/Items/Break.php:48
+msgid "Use this widget to make next widget from new line."
+msgstr ""
+
+#: classes/widget/Items/Break.php:50
+msgid "Apply on wide-screen"
+msgstr ""
+
+#: classes/widget/Items/Break.php:52
+msgid "Apply on desktop"
+msgstr ""
+
+#: classes/widget/Items/Break.php:54
+msgid "Apply on tablet"
+msgstr ""
+
+#: classes/widget/Items/Break.php:56
+msgid "Apply on mobile"
+msgstr ""
+
+#: classes/widget/Items/Button.php:12 classes/widget/Items/Button.php:13
+msgid "Button"
+msgstr ""
+
+#: classes/widget/Items/Button.php:29
+msgid "view all"
+msgstr ""
+
+#: classes/widget/Items/Button.php:63 classes/widget/Items/Team.php:150
+msgid "Name:"
+msgstr ""
+
+#: classes/widget/Items/Button.php:72
+msgid "Button link:"
+msgstr ""
+
+#: classes/widget/Items/Button.php:81 classes/widget/Items/Features.php:161
+#: classes/widget/Items/Plan.php:240 classes/widget/Items/Records.php:94
+#: classes/widget/Items/Team.php:225 classes/widget/Items/Testimonial.php:108
+msgid "Widget Size (x of 12):"
+msgstr ""
+
+#: classes/widget/Items/Button.php:83 classes/widget/Items/Features.php:163
+#: classes/widget/Items/Plan.php:242 classes/widget/Items/Records.php:96
+#: classes/widget/Items/Team.php:227 classes/widget/Items/Testimonial.php:110
+msgid "Phone"
+msgstr ""
+
+#: classes/widget/Items/Button.php:117 classes/widget/Items/Features.php:197
+#: classes/widget/Items/Plan.php:276 classes/widget/Items/Records.php:130
+#: classes/widget/Items/Team.php:261 classes/widget/Items/Testimonial.php:144
+msgid "Tablet"
+msgstr ""
+
+#: classes/widget/Items/Button.php:153 classes/widget/Items/Features.php:233
+#: classes/widget/Items/Plan.php:312 classes/widget/Items/Records.php:166
+#: classes/widget/Items/Team.php:297 classes/widget/Items/Testimonial.php:180
+msgid "Desktop"
+msgstr ""
+
+#: classes/widget/Items/Button.php:188 classes/widget/Items/Features.php:268
+#: classes/widget/Items/Plan.php:347 classes/widget/Items/Records.php:201
+#: classes/widget/Items/Team.php:332 classes/widget/Items/Testimonial.php:215
+msgid "Large Desktop"
+msgstr ""
+
+#: classes/widget/Items/Contact.php:81
+msgid "Address:"
+msgstr ""
+
+#: classes/widget/Items/Contact.php:84
+msgid "Phone:"
+msgstr ""
+
+#: classes/widget/Items/Contact.php:87
+msgid "E-mail:"
+msgstr ""
+
+#: classes/widget/Items/Contact.php:90
+msgid "Skype:"
+msgstr ""
+
+#: classes/widget/Items/Features.php:12 classes/widget/Items/Features.php:13
+msgid "Feature"
+msgstr ""
+
+#: classes/widget/Items/Features.php:121
+msgid "Image"
+msgstr ""
+
+#: classes/widget/Items/Features.php:130 classes/widget/Items/Team.php:221
+msgid "Upload Image"
+msgstr ""
+
+#: classes/widget/Items/Features.php:143 classes/widget/Items/Plan.php:160
+msgid "Sub title"
+msgstr ""
+
+#: classes/widget/Items/Features.php:152 classes/widget/Items/Plan.php:204
+#: classes/widget/Items/Records.php:85
+msgid "Text"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:12 classes/widget/Items/GoogleMap.php:13
+msgid "GoogleMap"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:65
+msgid "API key"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:71
+msgid "You latidute"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:80
+msgid "You longitude"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:89
+msgid "Zoom level"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:94
+msgid "Map width (default 100%)"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:103
+msgid "Map height (default 625px)"
+msgstr ""
+
+#: classes/widget/Items/GoogleMap.php:112
+msgid "Tooltip text"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:77
+msgid "/mo"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:89
+msgid ""
+"100GB Storage\n"
+"All Themes\n"
+"Access to Tutorials\n"
+"Auto Backup\n"
+"Extended Security\n"
+"24/7 Techsupport\n"
+"Unlimited Access"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:100 classes/widget/Items/Plan.php:110
+#: classes/widget/Items/Plan.php:224
+msgid "sign up"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:165
+msgid "Best Value"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:182
+msgid "Currency"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:193
+msgid "Period"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:209
+msgid ""
+"100GB Storage\n"
+"All Themes\n"
+"Access to Tutorials\n"
+"Auto Backup\n"
+"Extended Security\n"
+"24/7 Techsupport"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:219
+msgid "Buttom text"
+msgstr ""
+
+#: classes/widget/Items/Plan.php:229
+msgid "Buttom link"
+msgstr ""
+
+#: classes/widget/Items/Records.php:12 classes/widget/Items/Records.php:13
+msgid "Record"
+msgstr ""
+
+#: classes/widget/Items/Records.php:76
+msgid "Count"
+msgstr ""
+
+#: classes/widget/Items/Team.php:12 classes/widget/Items/Team.php:13
+msgid "Team"
+msgstr ""
+
+#: classes/widget/Items/Team.php:159
+msgid "Link:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:168
+msgid "Position:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:177
+msgid "Text:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:186
+msgid "Facebook link:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:195
+msgid "Twitter link:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:204
+msgid "Instagram link:"
+msgstr ""
+
+#: classes/widget/Items/Team.php:213
+msgid "Photo:"
+msgstr ""
+
+#: classes/widget/Items/Testimonial.php:12
+#: classes/widget/Items/Testimonial.php:13
+msgid "Testimonial"
+msgstr ""
+
+#: classes/widget/Items/Testimonial.php:82
+msgid "Blockquote"
+msgstr ""
+
+#: classes/widget/Items/Testimonial.php:90
+msgid "Author's name"
+msgstr ""
+
+#: classes/widget/Items/Testimonial.php:99
+msgid "Author's position"
+msgstr ""
